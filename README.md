@@ -8,7 +8,7 @@ Está API tem como objetivo, demonstrar como utilizar o MongoDB em uma API no No
 ## Clonando o Repositório
 
 ```bash
-git clone http://www.github.com/site
+git clone https://github.com/gilliard-code/node-restful-api.git
 ```
 
 ### Requerimentos
